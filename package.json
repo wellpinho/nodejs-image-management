@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-image-management",
+  "version": "1.0.0",
+  "description": "API image management system with nodejs and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellpinho/nodejs-image-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellpinho/nodejs-image-management/issues"
+  },
+  "homepage": "https://github.com/wellpinho/nodejs-image-management#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.2",
+    "express": "^4.17.1",
+    "jest": "^27.2.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.8",
+    "supertest": "^6.1.6"
+  }
+}
